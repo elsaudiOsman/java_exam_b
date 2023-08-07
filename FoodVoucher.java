@@ -1,0 +1,3 @@
+interface FoodVoucher {
+    void eat();
+}
